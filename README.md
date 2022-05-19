@@ -13,6 +13,7 @@ Greetings Str1k3r
 material,wpn_mwr_knife_base
 
 xmodel,viewmodel_mwr_knife
+
 xmodel,weapon_mwr_parabolic_knife
 
 weapon,mp/knife_mp
